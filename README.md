@@ -1,4 +1,16 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b4d27ef1-a49f-4354-b42f-781b26c17d83" />
+
+
 ## Hi there 👋
+
+In 1986 I coded a BrickBreaker clone in BASIC for the Apple IIGS.  
+In 1990 I coded Hunt the Wumpus in Pascal for MS-DOS.  
+In 1998 I coded a Tetris clone for Linux.  
+Then I took a 25 year break from coding.  
+Now I'm back.   
+Thank you Expo.  
+Thank you Claude Code.  
+
 
 <!--
 **sandersonthethird/sandersonthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
