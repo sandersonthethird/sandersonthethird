@@ -3,9 +3,9 @@
 
 ## Hi there 👋
 
-In 1986 I coded a BrickBreaker clone in BASIC for the Apple IIGS.  
+In 1989 I coded a BrickBreaker clone in BASIC for the Apple IIGS.  
 In 1990 I coded Hunt the Wumpus in Pascal for MS-DOS.  
-In 1998 I coded a Tetris clone for Linux.  
+In 1998 I coded a Tetris clone in C for Linux.
 Then I took a 25 year break from coding.  
 Now I'm back.   
 Thank you Expo.  
