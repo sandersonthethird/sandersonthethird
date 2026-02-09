@@ -5,10 +5,10 @@
 
 In 1989 I coded a BrickBreaker clone in BASIC for the Apple IIGS.  
 In 1990 I coded Hunt the Wumpus in Pascal for MS-DOS.  
-In 1998 I coded a Tetris clone in C for Linux.
-I thought I'd seen and done it all.
-I've come back from retirement.
-Thank you AI.
+In 1998 I coded a Tetris clone in C for Linux.  
+I thought I'd seen and done it all.  
+I've come back from retirement.  
+Thank you AI.  
 Thank you Expo.  
 Thank you Claude Code.  
 
