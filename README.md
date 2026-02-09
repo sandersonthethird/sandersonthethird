@@ -1,13 +1,14 @@
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b4d27ef1-a49f-4354-b42f-781b26c17d83" />
 
 
-## Hi there 👋
+## Hello world 👋
 
 In 1989 I coded a BrickBreaker clone in BASIC for the Apple IIGS.  
 In 1990 I coded Hunt the Wumpus in Pascal for MS-DOS.  
 In 1998 I coded a Tetris clone in C for Linux.
-Then I took a 25 year break from coding.  
-Now I'm back.   
+I thought I'd seen and done it all.
+I've come back from retirement.
+Thank you AI.
 Thank you Expo.  
 Thank you Claude Code.  
 
