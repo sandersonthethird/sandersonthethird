@@ -4,12 +4,12 @@
 ## Hello world 👋
 
 Career coding highlights:  
-BrickBreaker clone in BASIC for the Apple IIGS.  
+BrickBreaker clone in BASIC for the Apple IIGS  
 Garbage collection in C  
 Tetris clone in C++  
 
 Currently coding:
-Cyggie - Red Swan Ventures's internal OS. The CRM that builds itself. 
+Cyggie - Red Swan Ventures's internal OS. The CRM that builds itself 
 
 <!--
 **sandersonthethird/sandersonthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
