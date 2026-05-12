@@ -3,10 +3,10 @@
 
 ## Hello world 👋
 
-Career coding highlights: 
+Career coding highlights:  
 BrickBreaker clone in BASIC for the Apple IIGS.  
-Garbage collection in C
-Tetris clone in C++
+Garbage collection in C  
+Tetris clone in C++  
 
 Currently coding:
 Cyggie - Red Swan Ventures's internal OS. The CRM that builds itself. 
