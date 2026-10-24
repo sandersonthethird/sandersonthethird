@@ -10,7 +10,7 @@ Garbage collection in C
 Tetris clone in C++  
 
 Currently coding:
-Cyggie - Red Swan Ventures's internal OS. The CRM that builds itself 
+Cyggie - Your company's knowledge, put to work.
 
 <!--
 **sandersonthethird/sandersonthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
