@@ -4,7 +4,8 @@
 ## Hello world 👋
 
 Career coding highlights:  
-BrickBreaker clone in BASIC for the Apple IIGS  
+BrickBreaker clone in BASIC for the Apple IIGS. 
+Hunt the Wumpus in Pascal. 
 Garbage collection in C  
 Tetris clone in C++  
 
